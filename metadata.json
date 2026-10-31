@@ -1,0 +1,6 @@
+{
+  "name": "RECEIPT MAKER PRO",
+  "description": "Fast and professional receipt maker application with real-time website sync, pull-to-refresh, file uploads, and smooth typing splash screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
